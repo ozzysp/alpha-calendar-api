@@ -1,4 +1,2 @@
 # This API will be an engine for a simple appointment calendar
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+This API will generate connections between a Python Back-End to JavaScript Front-End,
