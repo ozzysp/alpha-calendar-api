@@ -1,4 +1,4 @@
-#!/home/ozzy/PythonProjects/alpha-calendar-api/venv/bin/python3
+#!/home/ozzy/PythonProjects/alpha-calendar-api2/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
